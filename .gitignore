@@ -60,6 +60,8 @@ crashlytics-build.properties
 
 #Custom ignored folders
 Assets/Graphics/
+Library/Artifacts
 
 #Corresponing META files
-Assets/Grpahics.meta
+Assets/Graphics.meta
+Library/Artifacts.meta

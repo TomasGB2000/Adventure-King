@@ -60,8 +60,10 @@ crashlytics-build.properties
 
 #Custom ignored folders
 Assets/Graphics/
-Library/Artifacts
+TextMesh Pro
+Packages
 
 #Corresponing META files
 Assets/Graphics.meta
-Library/Artifacts.meta
+Assets/TextMesh Pro.meta
+Assets/Library.meta
